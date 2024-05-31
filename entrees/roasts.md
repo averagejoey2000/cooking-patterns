@@ -22,4 +22,4 @@ A section of beef, a whole chicken, a gourd, sliced or whole potatoes, etc. can 
 
 ### Recipe examples
 
-// TODO
+<https://www.recipetineats.com/festive-duck-apple-cider-drizzle-easy/>
